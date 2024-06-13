@@ -12,12 +12,9 @@ In Shorrt Way,This Code Provides A Structure For A Fungible Token, Where Each To
 ## Installing
 You Can Download The Program By Clicking On The Code Button After That You Will See Download Button. You Can Download This File As A Zip File.If You Want To Use This In Your Project. You Can Click On Fork Repository And It Will Be Save In Your Github For Future Changes.
 ## Executing A Program
-To Run This Program Paste The Code Or Downloaded File In RemixIDE. Then Compile The Code And Deploy It. After Installation Add Your Account Address In The Address Section And The Value By Which You Want To Increase Your Total Balance And Total Supply. Here Mint Function Also Used To Check Value In Total Supply And Increase The Balance And There Is Burn Function If You Want To Burn Some Token It Will Show You The Remaining Supply ANd Balance.
+To Run This Program Paste The Code Or Downloaded File In RemixIDE. Then Compile The Code And Deploy It. After Installation Add Your Account Address In The Address Section And The Value By Which You Want To Increase Your Total Balance And Total Supply. Here Mint Function Also Used To Check Value In Total Supply And Increase The Balance And There Is Burn Function If You Want To Burn Some Token It Will Show You The Remaining Supply And Balance.
 You Can Also Change Values Of Your Token Name, Token Abbrevation,Total Supply:
-// public variables here
-      string public TokenName = "Solidity";
-      string public TokenAbbrv = "SOL";
-      uint public Total_Supply = 0;
+![image](https://github.com/ishanXace/Solidarity_Assessment/assets/149186898/df1945dd-48dc-4c5c-86c3-bd10f5f9a6fd)
 # Authors
 Ishandeep Singh
 # License
